@@ -16,3 +16,6 @@ https://www.kaggle.com/c/plant-seedlings-classification/data
 - sklearn
 - tqdm
 - matplotlib
+
+Please look at the website in detail: https://mihwa-han.github.io/project3.html
+
