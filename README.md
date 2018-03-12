@@ -1,4 +1,10 @@
 # Deep-Learning-in-the-Weeds
+<p align="center">
+
+  <img src="./img/plant.png" >
+
+</p>
+
 classifying plant seedlings in images with convolutional neural nets
 - identified specific species of plant seedling, among 12 different species, with 93% accuracy
 - launched EC2 instance on AWS with GPU processing to facilitate rapid model production
