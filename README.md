@@ -28,6 +28,6 @@ https://www.kaggle.com/c/plant-seedlings-classification/data
 
 ## Example
 
-`from final_code_oop import seedlings`
-`test = seedlings(n_epochs=20,make_plot=True)`
+`from final_code_oop import seedlings  
+test = seedlings(n_epochs=20,make_plot=True)`
 
